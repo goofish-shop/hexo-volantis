@@ -5,15 +5,16 @@
 # Site
 title: ahKevinXy
 subtitle: ''
-description: 'ahKevinXy hexo 基础模板'
+description: 'ahKevinXy hexo volantis 模板'
 keywords:
 author: ahKevinXy
 language: en
 timezone: ''
+theme: volantis
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://goofish-shop.github.io/hexo-start/
+url: https://goofish-shop.github.io/hexo-volantis
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
